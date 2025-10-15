@@ -1,6 +1,6 @@
-{
+messageTextessageTexthishis
   "showDialog": true,
-  "appVersionCode": 50020052,
+  "appVersionCode": 50020052-4,
   "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
   "updateButtonText": "Update",
   "updateButtonLink": "https://google.com",
